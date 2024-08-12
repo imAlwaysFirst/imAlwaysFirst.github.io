@@ -1,0 +1,14 @@
+.square {
+    height:400px;
+    width: 400px;
+    background-color: gray;
+}
+
+.navbar{
+    height: 60px;
+    background-color: lightgray;
+}
+
+.space{
+    height: 50px;
+}
